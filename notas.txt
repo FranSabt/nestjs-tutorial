@@ -1,0 +1,14 @@
+crear un nuevo modulo:
+nest g module "Nombre del modulo"
+
+
+
+////////////////////////////////////
+
+"CONTROLADORES"
+
+En nest -> son los encargados de manejar las peticiones (req) y de generar respuesta (res) a los clientes
+
+"PROVEDORES"
+
+En nest -> encargados de ejecutar la lógica
